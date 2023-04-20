@@ -1,6 +1,10 @@
 [
     {
         "package": "roleR",
-        "url": "https://https://github.com/role-model/roleR"
+        "url": "https://github.com/role-model/roleR"
+    },
+    {
+        "package": "roleShiny",
+        "url": "https://github.com/role-model/roleShiny"
     }
 ]
